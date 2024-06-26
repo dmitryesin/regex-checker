@@ -27,7 +27,7 @@ def main(page: ft.Page):
     result_label = ft.Text(value="", color="#B8BCC3")
 
     page.dark_theme
-    page.title = "RegEx Checker"
+    page.title = "Regular Expression Checker"
     page.window_width = 420
     page.window_height = 310
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
