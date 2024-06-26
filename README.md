@@ -1,4 +1,4 @@
-# RegEx Checker
+# Regular Expression Checker
 
 With this program, you can enter a regular expression and a word and check that the word belongs to the regular expression.
 
