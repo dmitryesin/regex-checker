@@ -35,6 +35,5 @@ flet==0.22.1
 ## Usage
 
 ```bash
-cd src
-python3 main.py # python main.py on Windows
+python3 src/main.py # <python> on Windows
 ```
